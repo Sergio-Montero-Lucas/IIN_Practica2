@@ -6,6 +6,6 @@ El objetivo de este repositorio es el de hacer el apartado 6 de la practica 2
 `Int numero = 2;`
 `Console.WriteLine("La vida es una tombola de luz y de coloooor");`
 ---
-![imagen](IIN_Practica2/ImagAp6.jpg'ImagAp6.jpg)
+![imagen](ImagAp6.jpg)
 # H1 "Autor"
 Sergio Montero Lucas
